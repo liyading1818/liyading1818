@@ -13,10 +13,3 @@
 
 Growth · Brand · Overseas expansion · LLM Agents · Obsidian · Cursor Skills · Marketing ops automation
 
-## Stack
-
-Obsidian · Cursor · Claude / Codex · yt-dlp · faster-whisper · Python
-
----
-
-个人知识库本地跑 Obsidian Vault + Git；公开的是工具链与 Agent Skills 模板，wiki 正文内容不进仓库。
