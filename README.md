@@ -1,6 +1,6 @@
 # Hi, I'm Liya
 
-**AI × Marketing** — 用 Agent 重构营销工作流与知识管理。
+**AI × Marketing** — 用数据驱动跨境用户增长，Agent 重构营销全链路。
 
 ## Projects
 
